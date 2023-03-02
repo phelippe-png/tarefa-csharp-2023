@@ -1,0 +1,15 @@
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.ImprimirConsoantes\bin\Debug\net6.0\Tarefa.ImprimirConsoantes.exe
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.ImprimirConsoantes\bin\Debug\net6.0\Tarefa.ImprimirConsoantes.deps.json
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.ImprimirConsoantes\bin\Debug\net6.0\Tarefa.ImprimirConsoantes.runtimeconfig.json
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.ImprimirConsoantes\bin\Debug\net6.0\Tarefa.ImprimirConsoantes.dll
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.ImprimirConsoantes\bin\Debug\net6.0\Tarefa.ImprimirConsoantes.pdb
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.ImprimirConsoantes\obj\Debug\net6.0\Tarefa.ImprimirConsoantes.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.ImprimirConsoantes\obj\Debug\net6.0\Tarefa.ImprimirConsoantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.ImprimirConsoantes\obj\Debug\net6.0\Tarefa.ImprimirConsoantes.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.ImprimirConsoantes\obj\Debug\net6.0\Tarefa.ImprimirConsoantes.AssemblyInfo.cs
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.ImprimirConsoantes\obj\Debug\net6.0\Tarefa.ImprimirConsoantes.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.ImprimirConsoantes\obj\Debug\net6.0\Tarefa.ImprimirConsoantes.dll
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.ImprimirConsoantes\obj\Debug\net6.0\refint\Tarefa.ImprimirConsoantes.dll
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.ImprimirConsoantes\obj\Debug\net6.0\Tarefa.ImprimirConsoantes.pdb
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.ImprimirConsoantes\obj\Debug\net6.0\Tarefa.ImprimirConsoantes.genruntimeconfig.cache
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.ImprimirConsoantes\obj\Debug\net6.0\ref\Tarefa.ImprimirConsoantes.dll

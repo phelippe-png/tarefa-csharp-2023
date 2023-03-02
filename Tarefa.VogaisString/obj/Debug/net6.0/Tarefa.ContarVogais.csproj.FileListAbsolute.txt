@@ -1,0 +1,15 @@
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.VogaisString\bin\Debug\net6.0\Tarefa.ContarVogais.exe
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.VogaisString\bin\Debug\net6.0\Tarefa.ContarVogais.deps.json
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.VogaisString\bin\Debug\net6.0\Tarefa.ContarVogais.runtimeconfig.json
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.VogaisString\bin\Debug\net6.0\Tarefa.ContarVogais.dll
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.VogaisString\bin\Debug\net6.0\Tarefa.ContarVogais.pdb
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.VogaisString\obj\Debug\net6.0\Tarefa.ContarVogais.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.VogaisString\obj\Debug\net6.0\Tarefa.ContarVogais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.VogaisString\obj\Debug\net6.0\Tarefa.ContarVogais.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.VogaisString\obj\Debug\net6.0\Tarefa.ContarVogais.AssemblyInfo.cs
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.VogaisString\obj\Debug\net6.0\Tarefa.ContarVogais.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.VogaisString\obj\Debug\net6.0\Tarefa.ContarVogais.dll
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.VogaisString\obj\Debug\net6.0\refint\Tarefa.ContarVogais.dll
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.VogaisString\obj\Debug\net6.0\Tarefa.ContarVogais.pdb
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.VogaisString\obj\Debug\net6.0\Tarefa.ContarVogais.genruntimeconfig.cache
+C:\Users\facec.lab04\Desktop\Tarefa Programação\Tarefa.Programacao\Tarefa.VogaisString\obj\Debug\net6.0\ref\Tarefa.ContarVogais.dll
